@@ -1,0 +1,15 @@
+/Users/brocbozeman/Desktop/Source/Repos/examplerepo/bin/Debug/net5.0/examplerepo.deps.json
+/Users/brocbozeman/Desktop/Source/Repos/examplerepo/bin/Debug/net5.0/examplerepo.runtimeconfig.json
+/Users/brocbozeman/Desktop/Source/Repos/examplerepo/bin/Debug/net5.0/examplerepo.runtimeconfig.dev.json
+/Users/brocbozeman/Desktop/Source/Repos/examplerepo/bin/Debug/net5.0/examplerepo.dll
+/Users/brocbozeman/Desktop/Source/Repos/examplerepo/bin/Debug/net5.0/ref/examplerepo.dll
+/Users/brocbozeman/Desktop/Source/Repos/examplerepo/bin/Debug/net5.0/examplerepo.pdb
+/Users/brocbozeman/Desktop/Source/Repos/examplerepo/obj/Debug/net5.0/examplerepo.csprojAssemblyReference.cache
+/Users/brocbozeman/Desktop/Source/Repos/examplerepo/obj/Debug/net5.0/examplerepo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brocbozeman/Desktop/Source/Repos/examplerepo/obj/Debug/net5.0/examplerepo.AssemblyInfoInputs.cache
+/Users/brocbozeman/Desktop/Source/Repos/examplerepo/obj/Debug/net5.0/examplerepo.AssemblyInfo.cs
+/Users/brocbozeman/Desktop/Source/Repos/examplerepo/obj/Debug/net5.0/examplerepo.csproj.CoreCompileInputs.cache
+/Users/brocbozeman/Desktop/Source/Repos/examplerepo/obj/Debug/net5.0/examplerepo.dll
+/Users/brocbozeman/Desktop/Source/Repos/examplerepo/obj/Debug/net5.0/ref/examplerepo.dll
+/Users/brocbozeman/Desktop/Source/Repos/examplerepo/obj/Debug/net5.0/examplerepo.pdb
+/Users/brocbozeman/Desktop/Source/Repos/examplerepo/obj/Debug/net5.0/examplerepo.genruntimeconfig.cache
